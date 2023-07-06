@@ -1,0 +1,5 @@
+pip install streamlit==0.62.0
+pip install scikit-learn
+pip install matplotlib
+set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
+pip install -U click==8.0
